@@ -1,4 +1,4 @@
- 🍱 Ghar Sa Thali
+ 🍱 Ghar Se Thali
 
 Ghar Sa Thali is a smart food delivery and subscription platform that connects customers with home chefs (aunties) who prepare fresh, hygienic, and affordable meals.
 
